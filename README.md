@@ -15,4 +15,6 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 
 BiocManager::install("dada2")
 
+Can be accessed from here: https://www.bioconductor.org/packages/release/bioc/html/dada2.html
+
 Additional packages required for downstream analysis: phyloseq and ggplot2
