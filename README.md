@@ -1,7 +1,7 @@
 # Hormone-Microbiome-DADA2-Data-Analysis
 Human Steroid Hormones Influence Gut Microbial Community Structure - DADA2 Analysis
 
-**Software Required**
+**Software Required** :
 R/RStudio
 
 DADA2: for Illumina-sequenced paired-end fastq files where 
@@ -14,5 +14,4 @@ if (!requireNamespace("BiocManager", quietly = TRUE))
 
 BiocManager::install("dada2")
 
-# Additional packages required for 
-# downstream analysis: phyloseq and ggplot2
+Additional packages required for downstream analysis: phyloseq and ggplot2
