@@ -155,3 +155,4 @@ abline(0, 0.1117482900000299990)
 rarecurve(seqtab.nochim, step = 100, sample = raremax, col = "blue", cex = 0.6)
 S
 rarefied_data<-rrarefy(seqtab.nochim, 7000)
+                                    
