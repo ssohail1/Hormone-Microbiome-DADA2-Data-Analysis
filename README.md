@@ -10,8 +10,8 @@ DADA2: for Illumina-sequenced paired-end fastq files where barcodes/adapters hav
 # To install DADA2
 **Need to first install Bioconductor and then dada2**:
 
-`if (!requireNamespace("BiocManager", quietly = TRUE))  
-install.packages("BiocManager")`  
+`if (!requireNamespace("BiocManager", quietly = TRUE))`  
+`install.packages("BiocManager")`  
 `BiocManager::install("dada2")`
 
 Documentation: https://www.bioconductor.org/packages/release/bioc/html/dada2.html
