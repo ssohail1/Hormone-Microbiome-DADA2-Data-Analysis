@@ -18,8 +18,8 @@ Documentation: https://www.bioconductor.org/packages/release/bioc/html/dada2.htm
 
 ### Files in repo
 data folder:
-  - HormoneRscript_upd.R: R script with the [DADA2](https://benjjneb.github.io/dada2/tutorial_1_8.html) and phylogenetic analyses
-  - filtfiles folder: contains the data used in the DADA2 and phylogenetic analyses.
+  - HormoneAnalysis.R: R script with the [DADA2](https://benjjneb.github.io/dada2/tutorial_1_8.html) and phylogenetic analyses
+  - filt_files folder: contains the data used in the [DADA2](https://benjjneb.github.io/dada2/tutorial_1_8.html) and phylogenetic analyses.
 
 ### How to use
 Clone repository into personal directory using this command,  
