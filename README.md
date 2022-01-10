@@ -15,3 +15,12 @@ DADA2: for Illumina-sequenced paired-end fastq files where barcodes/adapters hav
 `BiocManager::install("dada2")`
 
 Documentation: https://www.bioconductor.org/packages/release/bioc/html/dada2.html
+
+### Files in repo
+
+### How to use
+Clone repository into personal directory using this command,  
+`git clone https://github.com/ssohail1/Hormone-Microbiome-DADA2-Data-Analysis.git`
+
+To move into bc_microbiome-project directory use `cd`,  
+`cd Hormone-Microbiome-DADA2-Data-Analysis`
